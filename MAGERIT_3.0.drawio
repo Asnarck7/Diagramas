@@ -1,9 +1,124 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Página-1" id="5E43-coh-er-KgnHZWhc">
-    <mxGraphModel>
+    <mxGraphModel dx="2041" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KCv0X93PMlT7swgnsqiF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-1" target="KCv0X93PMlT7swgnsqiF-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558.5454545454545" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Introducción Y Fundamentos&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#99FFCC;" vertex="1" connectable="0" parent="KCv0X93PMlT7swgnsqiF-3">
+          <mxGeometry x="0.0921" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;MAGERIT 3.0&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="30" width="385" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-6" target="KCv0X93PMlT7swgnsqiF-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850.0000819214126" y="245.08695652173913" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-6" target="KCv0X93PMlT7swgnsqiF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-6" value="&lt;p style=&quot;&quot;&gt;CSAE creó la guía&amp;nbsp;&lt;b&gt;Magerit &lt;/b&gt;ya que&amp;nbsp;la sociedad y el gobierno dependen cada vez más de los sistemas informáticos&amp;nbsp;para funcionar bien; al u&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;sar la tecnología trae muchos beneficios a los ciudadanos, pero también genera&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;riesgos o peligros&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;que deben controlarse.&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-10" value="Magerit&amp;nbsp;buscan gestionar esos riesgos poder aplicar medidas de seguridad que&amp;nbsp;mantengan la confianza de las personas&amp;nbsp;al usar los servicios digitales." style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="213" width="240" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-12" target="KCv0X93PMlT7swgnsqiF-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-12" target="KCv0X93PMlT7swgnsqiF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-12" target="KCv0X93PMlT7swgnsqiF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-12" value="Podemos&amp;nbsp;&lt;div&gt;Que&amp;nbsp;&lt;/div&gt;&lt;div&gt;Margerit 3.0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="328" width="125" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-15" target="KCv0X93PMlT7swgnsqiF-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-15" target="KCv0X93PMlT7swgnsqiF-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-15" target="KCv0X93PMlT7swgnsqiF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-15" target="KCv0X93PMlT7swgnsqiF-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-15" value="Ejes principales del&lt;div&gt;Margerit&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="430" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-16" value="Subtemas clave por cada eje" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="500" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-17" value="3. Método de análisis de riesgos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="430" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-22" target="KCv0X93PMlT7swgnsqiF-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-40" value="Para UN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KCv0X93PMlT7swgnsqiF-31">
+          <mxGeometry x="-0.1214" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-22" value="Buen gobierno&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="597.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-24" target="KCv0X93PMlT7swgnsqiF-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-24" value="Confianza" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-25" value="Gestión" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-26" value="Magerit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="597.5" width="120" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-30" target="KCv0X93PMlT7swgnsqiF-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-42" value="Esto significa que los líderes deben sabe" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KCv0X93PMlT7swgnsqiF-33">
+          <mxGeometry x="-0.05" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-30" value="Buen Gobierno, es fundamental conocer los riesgos antes de tomar cualquier decisión importante." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="667.5" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KCv0X93PMlT7swgnsqiF-32" target="KCv0X93PMlT7swgnsqiF-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-44" value="No se Trata de" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KCv0X93PMlT7swgnsqiF-35">
+          <mxGeometry x="-0.0418" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-32" value="r El peligros y qué oportunidades trae el uso de la tecnología (informática)." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="787.5" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-34" value="&lt;br&gt;solo de ver el riesgo de la tecnología por separado, sino de &lt;b&gt;incluirlo en el panorama general&lt;/b&gt; de todos los riesgos del organismo. De esta manera, los directivos pueden tomar las &lt;b&gt;mejores decisiones&lt;/b&gt; de forma equilibrada y &lt;b&gt;confiar&lt;/b&gt; en que los sistemas funcionarán como se espera.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="907.5" width="220" height="130.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KCv0X93PMlT7swgnsqiF-49" value="&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;La &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;confianza&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; es clave, especialmente para las administraciones públicas. Los ciudadanos esperan que los sistemas informáticos &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;funcionen bien&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; y hagan lo que se supone que deben hacer.&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="700" width="140" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
